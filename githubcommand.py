@@ -1,6 +1,6 @@
 # echo "# python-tutorial" >> README.md
 # git init
-# git add README.md
+# git add README.md or git add .
 # git commit -m "first commit"
 # git branch -M main
 # git remote add origin https://github.com/mezirim/python-tutorial.git
